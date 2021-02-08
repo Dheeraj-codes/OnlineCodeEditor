@@ -26,10 +26,17 @@
   text-align:right;
 }
 body{
-  background-color: #d6bce8;
+  background-color: #d6fff1;
+
+}
+main{
+  margin-top:50px;
 }
 #myFrame{
   background-color:white;
+}
+#nav{
+  position: fixed;
 }
 /* @media screen and (max-width:800px){
   #result, #editor{
