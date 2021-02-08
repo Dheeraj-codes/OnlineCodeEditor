@@ -8,8 +8,11 @@
   float: left;
   margin-right:5px;
 }
-@media screen and (max-width:800px){
+#result, #editor{
+  margin-top:5px;
+}
+/* @media screen and (max-width:800px){
   #result, #editor{
     width:100%;
   }
-}
+} */
